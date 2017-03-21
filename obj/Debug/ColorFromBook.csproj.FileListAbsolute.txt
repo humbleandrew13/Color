@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ColorFromBook\bin\Debug\ColorFromBook.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ColorFromBook\bin\Debug\ColorFromBook.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ColorFromBook\bin\Debug\ColorFromBook.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ColorFromBook\obj\Debug\ColorFromBook.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ColorFromBook\obj\Debug\ColorFromBook.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ColorFromBook\obj\Debug\ColorFromBook.pdb
